@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuprajaGandhi
-- I’m interested in DSA
+- I’m interested in DSA, cloud computing, and Web app development.
 - I’m currently pursuing my masters in Computer Science.
 
 
